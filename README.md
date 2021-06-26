@@ -1,4 +1,4 @@
-### Hi everyone, I'm Sergey! 👋
+### Hi everyone, I'm Sergey, a data analyst! 👋
 
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-volkovich/)  [![Gmail](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sergeyv1989@gmail.com)
 - 🔭 I’m currently working on applying deep learning algorithms in the field of particle physics

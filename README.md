@@ -1,13 +1,14 @@
 ### Hi everyone, I'm Sergey, a data analyst! 👋
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sergeyv1989@gmail.com)   [![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-volkovich/)
-- 🔭 I’m currently working on applying deep learning algorithms in the field of particle physics
+- 🚀 I’m currently working on applying deep learning algorithms in the field of particle physics
+- 👨‍🎓 I hold a physics MSc with a paper on theoretical quantum optics
 - 🔧 I'm skilled at:
 
   Data analysis:	SQL, Excel, exploratory data analysis, statistical data analysis, machine learning
 
   Coding:	Python (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Keras), Mathematica, MATLAB, C++
-- ⚡ Fun fact: I'm a guitar ergonomics enthusiast
+- 🎸 Fun fact: I'm a guitar ergonomics enthusiast
 
 <!--
 **sergeyv1989/sergeyv1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

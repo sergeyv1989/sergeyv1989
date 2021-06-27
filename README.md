@@ -1,7 +1,7 @@
 ### Hi, I'm Sergey, a data analyst!
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sergeyv1989@gmail.com)   [![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-volkovich/)
-- 🚀 I’m currently working on applying deep learning algorithms in the field of particle physics
+- 🚀 I’m currently applying deep learning algorithms in a particle physics data analysis research group
 - 👨‍🎓 I hold a physics MSc with a paper on theoretical quantum optics
 - 🔧 I'm skilled at:
 

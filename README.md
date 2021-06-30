@@ -5,9 +5,9 @@
 - 👨‍🎓 I hold a physics MSc with a published paper on theoretical quantum optics
 - 🔧 I'm skilled at:
 
-  Data analysis:	SQL, Excel, exploratory data analysis, statistical data analysis, machine learning
-
-  Coding:	Python (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Keras), Mathematica, MATLAB, C++
+  Data analysis:	Querying, exploratory data analysis, statistical data analysis, machine learning predicting
+  
+  Tools:	SQL, Excel, Python (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Keras), Mathematica, MATLAB, C++
 - 🎸 Fun fact: I'm a guitar ergonomics enthusiast
 
 <!--

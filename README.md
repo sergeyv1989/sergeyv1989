@@ -3,7 +3,7 @@
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sergeyv1989@gmail.com)   [![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-volkovich/)
 - 🚀 Currently applying classical & deep machine learning at the R&D department at Veego.
 - 🔬 Previously applied deep learning at a particles data analysis research group at Weizmann Institute.
-- 👨‍🎓 I hold a physics MSc with a published paper on theoretical quantum optics.
+- 👨‍🎓 I hold a physics M.Sc. with a published paper on theoretical quantum optics.
 - 🔧 I'm skilled at:
 
   Data analysis:	Database querying, web scraping, data preprocessing, exploratory and statistical data analysis, classical and deep machine learning, visualization

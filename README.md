@@ -12,7 +12,7 @@
   My work was published in Optics Letters: https://doi.org/10.1364/OL.382044
 - 🔧 I'm skilled at:
 
-  Data analysis: Classical and deep machine learning, database querying, web scraping, data preprocessing, exploratory and statistical data analysis, visualization
+  Data analysis: Traditional and deep machine learning, database querying, web scraping, data preprocessing, exploratory and statistical data analysis, visualization
   
   Tools:	SQL, Python (Scikit-learn, TensorFlow, Pandas, NumPy, SciPy, Matplotlib, Plotly), Excel, Tableau, Mathematica, MATLAB
 

@@ -4,9 +4,12 @@
 - 🚀 Currently working as a machine & deep learning researcher at Veego, where I'm fully responsible for all machine learning projects: classification of network services, service QoE prediction, device fingerprinting, and user clustering.
 
   My work has resulted in 5 pending patents.
-- 🔬 Previously worked as a deep learning researcher in a particle physics research group at Weizmann Institute, where I was fully responsible for a project for discovering new physics by utilizing deep learning.
+- 🔬 Previously worked as a deep learning researcher in a particle physics research group at Weizmann Institute, where I was fully responsible for a project for discovering new particles by utilizing deep learning.
 
   My work was published in The European Physical Journal: https://doi.org/10.1140/epjc/s10052-022-10215-1
+- 📚 Self-studied the machine learning and the deep learning specializations by Andrew Ng on Coursera. I then completed the Yandex data bootcamp, wherein I did 12 projects exhibiting machine learning predicting, data collection, data preprocessing, descriptive & inferential statistical analysis, visualization, and producing business insights, in a variety of fields.
+
+  GitHub portfolio: https://github.com/sergeyv1989
 - 👨‍🎓 Holding a physics M.Sc. with a thesis on theoretical quantum optics, about sub-attosecond quantum metrology.
 
   My work was published in Optics Letters: https://doi.org/10.1364/OL.382044

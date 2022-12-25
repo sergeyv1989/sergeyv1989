@@ -1,7 +1,7 @@
 ### Hi, I'm Sergey, a data scientist!
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sergeyv1989@gmail.com)   [![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-volkovich/) 
-- 🚀 Currently working as a machine & deep learning researcher at Veego, where I'm fully responsible for all machine learning projects: classification of network services, service QoE prediction, device fingerprinting, and user clustering.
+- 💼 Currently working as a machine & deep learning researcher at Veego, where I'm fully responsible for all machine learning projects: classification of network services, service QoE prediction, device fingerprinting, and user clustering.
 
   My work has resulted in 5 pending patents.
 - 🔬 Previously worked as a deep learning researcher in a particle physics research group at Weizmann Institute, where I was fully responsible for a project for discovering new particles by utilizing deep learning.

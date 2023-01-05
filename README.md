@@ -1,7 +1,9 @@
+### Hi everyone, I'm Sergey! 👋
+
 I am a data scientist who’s guided by a passion for optimization, in all walks of life. I'm looking for a challenging position in an environment of mutual enrichment.
 Currently, I’m fully responsible for all machine learning projects at Veego, handling diverse problems and models, which resulted in 5 pending patents. Previously, I worked at the Weizmann Institute, where I published a paper on utilizing deep learning to discover new particles. In addition, I hold a physics MSc with a paper on theoretical quantum optics.
 
-########## CV Summary ##########
+### CV Summary:
 
 Currently working as a machine & deep learning researcher at Veego.
 * Fully responsible for all ML projects, bringing them from conception to production: Classifying network services, service QoE prediction, device fingerprinting, and user clustering.

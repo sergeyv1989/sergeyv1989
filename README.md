@@ -14,7 +14,7 @@ Currently working as a machine & deep learning researcher at Veego.
 
 Previously worked as a deep learning researcher at the Weizmann Institute.
 * Fully responsible for a project for discovering new particles using a novel search paradigm.
-* Utilized deep learning to detect statistically significant deviations in experimental results.
+* Utilized computer vision to detect statistically significant deviations in experimental results.
 * Work published in The European Physical Journal:
 https://doi.org/10.1140/epjc/s10052-022-10215-1
 

@@ -6,9 +6,9 @@ Currently, I’m fully responsible for all machine learning projects at Veego, h
 ### CV Summary:
 
 Currently working as a machine & deep learning researcher at Veego.
-* Fully responsible for all ML projects, bringing them from conception to production: Classifying network services, service QoE prediction, device fingerprinting, and user clustering.
+* Fully responsible for all ML projects, bringing them from idea to product: Classifying network services, service QoE prediction, device fingerprinting, anomaly detection, and user clustering.
 * 5 patents submitted.
-* Utilized diverse models: Supervised - classical ML, MLPs, computer vision, recurrent networks. Unsupervised - density estimation, anomaly detection, clustering, dimensionality reduction, generative models.
+* Utilized diverse models: Supervised - classical ML, MLPs, computer vision, recurrent networks. Unsupervised - density estimation, clustering, dimensionality reduction, generative models.
 * Developed algorithms for estimating service QoE.
 * Carried out statistical analyses & tests.
 

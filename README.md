@@ -11,7 +11,7 @@ Previously, I worked at the Weizmann Institute, where I published a paper on uti
 Currently working as a machine & deep learning researcher at Veego.
 * Fully responsible for all ML projects, bringing them from idea to product: defining problems based on business requests, developing POCs, designing pipelines, collecting & processing data, engineering features, training, evaluating & tuning models, supporting customers, and continuous optimization.
 * 5 patents submitted.
-* Developed diverse supervised & unsupervised ML & DL models in various projects: Classification of network services, service quality of experience prediction, devices classification (fingerprinting), anomaly detection, user clustering, data generation.
+* Developed diverse ML & DL models in various projects: Classification of network services, service quality of experience prediction, device fingerprinting, anomaly detection, user clustering, data generation.
 * Developed algorithms for service classification and QoE estimation.
 * Carried out statistical analyses and tests.
 * Collaborated with network researchers, PMs, analysts, developers, and QA engineers.

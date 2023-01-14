@@ -2,22 +2,25 @@
 
 I am a data scientist with a passion for optimization, who’s looking for a challenging position in an environment of mutual enrichment.
 
-Currently, I’m fully responsible for all machine learning projects at Veego, bringing diverse computer network problems from idea to product, which resulted in 5 pending patents.
+Currently, I’m fully responsible for developing all machine learning projects at Veego, bringing diverse computer network problems from idea to product, which resulted in 5 pending patents.
 
 Previously, I worked at the Weizmann Institute, where I published a paper on utilizing deep learning to discover new particles. In addition, I hold a physics MSc with a paper on theoretical quantum optics.
 
 ### CV Summary:
 
 Currently working as a machine & deep learning researcher at Veego.
-* Fully responsible for all ML projects, bringing them from idea to product: defining problems based on business requests, developing POCs, designing pipelines, collecting & processing data, engineering features, training, evaluating & tuning models, supporting customers, and continuous optimization.
+
+* Duties: Full development of all ML projects, from idea to product, and joint development of algorithms.
+* Projects: Network services classification, service quality of experience prediction, device fingerprinting, anomaly detection, user clustering, and data generation.
 * 5 patents submitted.
-* Developed diverse ML & DL models in various projects: Classification of network services, service quality of experience prediction, device fingerprinting, anomaly detection, user clustering, data generation.
+* Developed diverse ML and DL models: defining problems from business requests, developing POCs, designing pipelines, collecting & processing data, engineering features, training, evaluating & tuning models, supporting customers, and continuous optimization.
 * Developed algorithms for service classification and QoE estimation.
 * Carried out statistical analyses and tests.
-* Collaborated with network researchers, PMs, analysts, developers, and QA engineers.
+* Collaborated with network researchers, PMs, analysts, devs & QA, and presented weekly progress.
 
 Previously worked as a deep learning researcher at the Weizmann Institute.
-* Fully responsible for a DL project for discovering new particles using a novel search paradigm.
+
+* Duties: Full development of a DL project for discovering new particles by a novel search paradigm.
 * Work published in EPJC: https://doi.org/10.1140/epjc/s10052-022-10215-1
 * Developed a computer vision model for detecting statistically significant deviations in colliders data.
 * Carried out statistical analyses & tests.

@@ -24,7 +24,7 @@ Previously worked as a deep learning researcher at the Weizmann Institute.
 * Work published in EPJC: https://doi.org/10.1140/epjc/s10052-022-10215-1
 * Developed a computer vision model for detecting statistically significant deviations in colliders data.
 * Carried out statistical analyses & tests.
-* Collaborated with various researchers. 
+* Collaborated with various researchers and presented weekly progress. 
 
 Completed the Yandex data bootcamp, wherein I performed projects in 12 business domains. The projects exhibit machine learning, data collection & preprocessing, descriptive & inferential statistical analysis, visualization, and producing actionable insights.
 GitHub portfolio:

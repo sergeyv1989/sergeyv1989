@@ -1,4 +1,4 @@
-### Hi everyone, I'm Sergey! 👋
+### Nice to meet you, I'm Sergey! 👋
 
 I am a data scientist with over 3 years of experience, who’s skilled in machine & deep learning, statistics, and python.
 

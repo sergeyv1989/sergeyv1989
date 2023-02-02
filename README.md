@@ -2,7 +2,7 @@
 
 I am a data scientist with over 3 years of experience, who’s skilled in machine & deep learning, statistics, and python.
 
-Currently, I’m fully responsible for developing all machine learning projects at Veego, bringing diverse computer network problems from idea to product, which resulted in 5 pending patents.
+Currently, I’m fully responsible for developing all machine learning projects at Veego, bringing diverse computer network problems from idea to production, which resulted in 5 pending patents.
 
 Previously, I worked at the Weizmann Institute, where I published a paper on utilizing deep learning for discovering new particles. In addition, I hold a physics MSc with a paper on theoretical quantum optics.
 
@@ -13,7 +13,7 @@ Currently working as a machine & deep learning researcher at Veego.
 * Duties: Full development of all ML projects, from idea to product, and joint development of algorithms.
 * Projects: Network services classification, service quality of experience prediction, device fingerprinting, anomaly detection, user clustering, and data generation.
 * 5 patents submitted.
-* Developed diverse ML and DL models: defining problems from business requests, developing POCs, designing pipelines, collecting & processing data, engineering features, training, evaluating & tuning models, supporting customers, and continuous optimization.
+* Developed diverse ML and DL models: defining problems from business requests, developing POCs, designing pipelines, collecting & processing data, engineering features, training, evaluating, tuning & deploying models, supporting customers, and continuous optimization.
 * Developed algorithms for service classification and QoE estimation.
 * Carried out statistical analyses and tests.
 * Collaborated with network researchers, PMs, analysts, devs & QA, and presented weekly progress.

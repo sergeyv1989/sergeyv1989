@@ -15,7 +15,7 @@ Currently working as a machine & deep learning researcher at Veego.
 * 5 patents submitted.
 * Developed diverse supervised and unsupervised ML and DL end-to-end solutions.
 * Developed algorithms for various projects and carried out statistical analyses and tests.
-* Collaborated with network researchers, PMs, analysts, devs & QA, and presented weekly progress.
+* Collaborated with researchers, developers, analysts, QA testers & PMs, and presented weekly progress.
 
 Previously worked as a deep learning researcher at the Weizmann Institute.
 

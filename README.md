@@ -27,8 +27,8 @@ Previously worked as a deep learning researcher at the Weizmann Institute.
 
 Self-studied data science from courses and a bootcamp (sorted by date):
 
-* Deep learning for computer vision (CS231n). Stanford.
 * Algorithmic trading courses by Mohsen Hassan. Udemy.
+* Deep learning for computer vision (CS231n). Stanford.
 * Yandex data bootcamp. Completed projects in 12 business domains, which exhibit machine learning, data collection & preprocessing, descriptive & inferential statistical analysis, visualization, and producing actionable insights.
 * Deep learning specialization by Andrew Ng (5 courses). Coursera.
 * Machine learning specializations by Andrew Ng (3 courses). Coursera.

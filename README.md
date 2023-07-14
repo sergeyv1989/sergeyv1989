@@ -1,4 +1,4 @@
-### Nice to meet you, I'm Sergey! 👋
+### Nice to meet you, I'm Sergey! 👋🏻
 
 I am an experienced data scientist with a passion for state-of-the-art machine learning algorithms, who’s working in algorithmic stock trading.
 

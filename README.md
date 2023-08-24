@@ -1,6 +1,6 @@
 ### Nice to meet you, I'm Sergey! 👋🏻
 
-I am an experienced data scientist with a passion for state-of-the-art machine learning algorithms, who’s working in algorithmic stock trading.
+I am an experienced data scientist with a passion for state-of-the-art machine learning algorithms, who’s developing the entire algorithmic stock trading pipeline at Sapphire.
 
 - Completed an M.Sc. in physics, wherein I published a paper on theoretical quantum optics.
 - Worked as a Deep Learning Researcher at the Weizmann Institute, where I published a paper on utilizing deep learning for discovering new particles.
